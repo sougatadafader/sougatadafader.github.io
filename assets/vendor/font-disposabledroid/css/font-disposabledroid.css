@@ -1,0 +1,19 @@
+@font-face {
+    font-family: font-orator;
+    src: url('../fonts/disposabledroid-bb.regular.ttf') format('truetype') ;
+    font-weight: normal;
+    font-style: normal;
+}
+.font-orator{
+	float: left;
+	font-family: font-orator;
+	padding-left:5% ;
+	padding-right: 5%;
+	color: #fff;
+	font-weight: 500;
+	letter-spacing: 0px;
+	padding-top: 10px;
+	font-size: 34px; !important;
+    
+  
+}
