@@ -1255,7 +1255,15 @@ dl.toggle.time-line:before {
     border: 1px solid #222;
     background: #222;
 }
-
+/*download*/
+.btn-download-resume {
+    color: #222; 
+    background: #55FD2B;
+}
+.btn-download-resume:hover,
+.btn-download-resume:focus {
+    color: #fff;
+}
 /*light*/
 .btn-light-solid {
     color: #222; 

@@ -128,6 +128,10 @@ a,
 .travel-form.icon-tabs .nav-pills > li.active > a:focus {
     background: #DBB45E;
 }
+.btn-download-resume:hover,
+.btn-download-resume:focus{
+background:#25B102;
+}
 
 .menuzord .menuzord-menu ul.dropdown li:hover > a,
 .menuzord-menu > li > .megamenu .megamenu-row li:hover > a {
